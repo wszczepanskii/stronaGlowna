@@ -1,0 +1,162 @@
+<!doctype html>
+    <html lang="pl">
+
+    
+<!-- Mirrored from mc-protection.eu/imprint.php/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/script.js by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 07 Jul 2021 22:51:36 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../cdn.jsdelivr.net/npm/bootstrap%405.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+        <link rel="stylesheet" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../assets/css/style.css">
+
+        <link rel="icon" type="image/png" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../assets/img/favicon.html">
+        <title>MC-Protection.eu - the best minecraft server protection</title>
+
+        <meta name="theme-color" content="#000">
+
+        <meta name="title" content="MC-Protection.eu - the best minecraft server protection.">
+        <meta name="description" content="The best minecraft server protection for your minecraft server.">
+        <meta name="keywords" content="anticrash,antibot,yooniks,mcprotection,mc-protection,server,mc,minecraft,spigotguard,aegis,youtube,mcdrop,mcspam,exploit,fix,exploitfixer,patch,anticrasher">
+        <meta name="author" content="yooniks">
+
+        <meta property="og:type" content="website">
+
+        <meta property="og:url" content="https://example.com/">
+        <meta property="og:title" content="MC-Protection.eu - the best minecraft server protection.">
+        <meta property="og:description" content="The best minecraft server protection for your minecraft server.">
+        <meta property="og:image" content="https://[url_adress]/">
+
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:title" content="MC-Protection.eu">
+        <meta name="twitter:description" content="The best minecraft protection.">
+        <meta name="twitter:image:src" content="https://[url_adress]/">
+
+        <link rel="stylesheet" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../use.fontawesome.com/releases/v5.13.1/css/all.css" integrity="sha384-xxzQGERXS00kBmZW/6qxqJPyxW3UR0BPsL4c8ILaIWXva5kFi7TxkIIaMiKtqV1Q" crossorigin="anonymous">
+
+        <link rel="stylesheet" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../unpkg.com/aos%403.0.0-beta.6/dist/aos.css" />
+
+        <script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+
+        <script>
+
+            $(function () {
+                $(document).scroll(function () {
+                    var $nav = $(".fixed-top");
+                    $nav.toggleClass('changecol', $(this).scrollTop() > $nav.height());
+                    var $nav = $(".container-fluid");
+                    $nav.toggleClass('changecol', $(this).scrollTop() > $nav.height());
+                });
+            });
+
+        </script>
+
+    </head>
+
+    <body>
+
+    <!-- START -->
+
+    <header>
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+            <div class="container">
+                                <div class="navbar-acc">
+                    <a href="https://discord.com/api/v8/oauth2/authorize?scope=identify+guilds.join&amp;response_type=code&amp;client_id=821111398587170866&amp;redirect_uri=https%3A%2F%2Fmc-protection.eu%2Fauth%2Fverify&amp;prompt=consent"><button type="button" class="btn btn-primary">Login with <i class="fab fa-discord"></i></button></a>
+                </div>
+                
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fas fa-bars fa-2x"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../index.html">Start</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../why.html">Why</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../products.html">Products</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../contact.html">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>    </header>
+
+    <section class="err">
+
+        <div class="row rowse">
+            <div class="col-12 text-center text">
+
+                <h1>404 Not found</h1>
+                <h4>The page you requested was not found.</h4>
+
+                <div class="cb text-center">
+                    <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../index.html">
+                        <button class="btn btn-primary">Back to home page</button>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+</header>
+
+    <footer>
+
+        <div class="row">
+
+            <div class="col-12 col-lg-3">
+
+                <p>Services</p>
+
+                <a href="#">Protection</a><br>
+                <a href="#">Utils</a><br>
+                <a href="#">Discord-Support</a><br>
+
+            </div>
+
+            <div class="col-12 col-lg-3 lgh">
+
+                <p>Important</p>
+
+                <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../privacy.html">Privacy Policy</a><br>
+                <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../tos.html">Terms of service</a><br>
+                <a href="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../imprint.html">Legal Disclosure / Imprint</a><br>
+
+            </div>
+
+            <div class="col-12 col-lg-3 lgh">
+
+                <a href="#">Not associated with Mojang</a><br>
+
+            </div>
+
+            <span>Coyright &copy; 2021 Mc-protection.eu. All rights reserved.</span>
+            <font>Front-end by <a href="https://herlix.net/">HERLIX</a></font>
+            <font>Back-end by <a href="https://netscript.pl/">NETSCRIPT</a></font>
+
+        </div>
+
+    </footer>
+
+    <!-- END -->
+
+    <script src="script.e6.delaye"></script>
+    <script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../cdn.jsdelivr.net/npm/bootstrap%405.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+    <script src="../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../unpkg.com/aos%403.0.0-beta.6/dist/aos.js"></script>
+    <script>
+
+        AOS.init();
+
+    </script>
+
+    </body>
+
+<!-- Mirrored from mc-protection.eu/imprint.php/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/assets/js/script.js by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 07 Jul 2021 22:51:36 GMT -->
+</html>
